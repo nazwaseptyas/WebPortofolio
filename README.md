@@ -1,3 +1,3 @@
 ## Website Portofolio
 
-![Project Screenshot](assets/images/website.png)
+![Project Screenshot](https://imgur.com/460VXS0)
